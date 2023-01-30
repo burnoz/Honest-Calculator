@@ -145,4 +145,4 @@ while True:
     else:
         continue
 
-# burnoz :o
+# burnoz
